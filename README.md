@@ -17,6 +17,11 @@ The aim of the project are:
 ## Scores
 ![2022-06-28_21h37_17](https://user-images.githubusercontent.com/25958431/176272599-51309702-63e9-402d-b546-a26098d68390.png)
 
+- after small changes in code
+
+![2022-06-29_21h44_50](https://user-images.githubusercontent.com/25958431/176530649-fa34d635-74b0-47b5-9f82-3fa15503f17f.png)
+
+
 ## Best Parameters 
 ```python
 n_neg_per_pos=18, 
